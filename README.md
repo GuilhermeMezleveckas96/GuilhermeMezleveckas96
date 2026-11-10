@@ -97,11 +97,10 @@ My current learning path is focused on developing the technical foundation requi
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMezleveckas96&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMezleveckas96&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMezleveckas96&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMezleveckas96&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ### 💡 My Philosophy
 
