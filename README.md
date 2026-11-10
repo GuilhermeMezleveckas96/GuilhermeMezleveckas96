@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guilherme Mezleveckas
+# 👋 Hi, I'm Guilherme Sebinel Mezleveckas Godoy
 
 ### Data Analytics | Python | Automation | Aspiring Data Engineer
 
