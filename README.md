@@ -87,7 +87,7 @@ My current learning path is focused on developing the technical foundation requi
 
 ## 🎯 Professional Goals
 
-- Transition into a Data Engineering role.
+- Transition into a AI Data Engineering role.
 - Build robust and scalable data pipelines.
 - Develop expertise in Cloud Data Platforms.
 - Explore Big Data architectures and distributed processing.
