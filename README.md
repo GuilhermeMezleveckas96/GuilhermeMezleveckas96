@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guilherme Sebinel Mezleveckas Godoy
 
-### Data Analytics | Python | Automation | Aspiring Data Engineer
+### Data Analytics | Python | Automation | Aspiring AI Data Engineer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
@@ -16,15 +16,15 @@ I'm a Cost Analyst with a background in industrial operations, data analysis, Bu
 
 Currently, I work at **Vulkan do Brasil**, where I combine business knowledge and technology to improve processes, automate repetitive tasks and transform operational data into useful information for decision-making.
 
-My professional journey is evolving towards **Data Engineering**, with a strong interest in building reliable data pipelines, integrating different data sources and developing scalable data solutions.
+My professional journey is evolving towards **AI Data Engineering**, with a strong interest in building reliable data pipelines, integrating different data sources and developing scalable data solutions.
 
 I enjoy solving real-world business problems through technology, continuous learning and practical projects.
 
 - 💼 Current role: Junior Cost Analyst
 - 🏭 Industry: Industrial Manufacturing
-- 📊 Main interests: Data Analytics, BI and Automation
+- 📊 Main interests: AI, Data Analytics, BI and Automation
 - 🐍 Programming: Python and SQL
-- 🚀 Career goal: Data Engineer
+- 🚀 Career goal: AI Data Engineer
 - 🌎 Based in Brazil
 
 ## 🛠️ Technologies & Tools
