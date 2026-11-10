@@ -94,14 +94,6 @@ My current learning path is focused on developing the technical foundation requi
 - Apply Artificial Intelligence to data engineering solutions.
 - Improve my English to communicate confidently in international technology environments.
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMezleveckas96&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMezleveckas96&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ### 💡 My Philosophy
 
 *"Turning data into insights, processes into solutions, and knowledge into innovation."*
